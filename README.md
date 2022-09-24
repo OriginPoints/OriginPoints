@@ -1,4 +1,4 @@
-I'm Origin, also known as (OriginPoints, in depth), and I'm a programmer.
+I'm Origin, also known as (OriginPoints, indepth), and I'm a programmer.
 If you'd want to commission me for something, simply add me on discord, which will be listed at the end of the portfolio.
 
 Programming languages: Lua, Python, C++, and occasionally C#. 
